@@ -43,3 +43,6 @@ Consider a small office environment containing **5 employee laptops**, **1 netwo
 2. **Data Sharing in Action:** Employee A saves a project report directly to the storage server. Employee B opens that exact same report from their own laptop seconds later to review it.
 3. **Communication in Action:** Employee A sends an internal instant message to Employee B over the local network to confirm the report is ready.
 4. **Resource Sharing in Action:** Employee B clicks "Print" on their laptop. The print job travels across the local network to the shared office printer, eliminating the need for 5 separate printers on every des
+
+
+
