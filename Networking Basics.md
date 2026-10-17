@@ -55,6 +55,7 @@ Consider a small office environment containing **5 employee PC**, **1 network pr
 <img width="556" height="239" alt="WiFi Router Setup 2" src="https://github.com/user-attachments/assets/fc4247a3-9abb-4039-b9c2-5b8dcd544d58" />
 <img width="582" height="343" alt="WiFi Router Setup 3" src="https://github.com/user-attachments/assets/b3c9381f-2950-4c0a-a94e-eaa78b689b67" />
 <br>
+
    5. Click a PC and open the Physical tab. <br>
    6. Turn the PC off using its power button. <br>
    7. Replace its Ethernet module with the WPC300N wireless module, if the module is available. <br>
@@ -66,7 +67,7 @@ Consider a small office environment containing **5 employee PC**, **1 network pr
 <img width="182" height="87" alt="PC Setup 1" src="https://github.com/user-attachments/assets/16c05804-0fe5-493f-9354-119e3d6b774f" />
 <img width="671" height="310" alt="PC Setup 2" src="https://github.com/user-attachments/assets/89f19634-0f80-4164-b07a-30ec6aff3f4f" />
 
-3. **Data Sharing in Action:** PC0 saves a project report directly to the storage server. PC1 opens that exact same report from their own pc seconds later to review it.
+2. **Data Sharing in Action:** PC0 saves a project report directly to the storage server. PC1 opens that exact same report from their own pc seconds later to review it.
    1. Click the server and open the Services tab.
    2. Select FTP from the service list.
    3. Turn the FTP service On.
@@ -82,7 +83,7 @@ Consider a small office environment containing **5 employee PC**, **1 network pr
    10. After logging in, retrieve the uploaded file: ''get report.txt''
 <img width="406" height="326" alt="Gettiing Files" src="https://github.com/user-attachments/assets/c978368b-70a4-4a0c-a3fe-772d8b29a699" />
 
-5. **Communication in Action:** PC0 sends an internal instant message to PC1 over the local network to confirm the report is ready.
+3. **Communication in Action:** PC0 sends an internal instant message to PC1 over the local network to confirm the report is ready.
 <img width="809" height="112" alt="Simple PDU Check" src="https://github.com/user-attachments/assets/4f6254fc-01cb-43dc-aeb6-88bd7f1fa2bf" />
 
 
