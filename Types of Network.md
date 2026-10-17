@@ -11,12 +11,29 @@ This module covers the different types of computer networks, their characteristi
 
 ---
 
-## 1. LAN (Local Area Network)
+## 1. PAN (Personal Area Network)
 
-**Definition:** A Local Area Network (LAN) connects computers and devices within a small geographical area.
+**Definition:** A Personal Area Network (PAN) connects personal devices over a very short distance, usually around one individual.
 
 ### Characteristics
-- Covers a small area, such as a home, school, or office.
+- Covers the smallest geographical area.
+- Connects personal electronic devices.
+- Commonly uses Bluetooth or USB.
+- Usually intended for personal use.
+
+### Examples
+- Smartphone connected to Bluetooth earbuds.
+- Smartwatch connected to a smartphone.
+- Laptop connected to a personal device.
+
+---
+
+## 2. LAN (Local Area Network)
+
+**Definition:** A Local Area Network (LAN) connects computers and devices within a small geographical area, such as a home, school, or office.
+
+### Characteristics
+- Covers a small geographical area.
 - Usually provides high-speed communication.
 - Uses Ethernet cables or wireless connections.
 - Commonly managed by an individual or organization.
@@ -28,29 +45,12 @@ This module covers the different types of computer networks, their characteristi
 
 ---
 
-## 2. WAN (Wide Area Network)
-
-**Definition:** A Wide Area Network (WAN) connects multiple networks over a large geographical area, such as cities, countries, or continents.
-
-### Characteristics
-- Covers large geographical areas.
-- Connects multiple LANs.
-- Uses telecommunications infrastructure.
-- May rely on network service providers.
-
-### Examples
-- A company connecting offices in different countries.
-- A bank connecting branches nationwide.
-- The Internet.
-
----
-
 ## 3. WLAN (Wireless Local Area Network)
 
 **Definition:** A Wireless Local Area Network (WLAN) connects devices within a limited area using wireless technology, typically Wi-Fi.
 
 ### Characteristics
-- Uses wireless signals.
+- Covers a local area using wireless signals.
 - Allows mobility within wireless coverage.
 - Commonly uses wireless routers or access points.
 - Requires appropriate security settings.
@@ -62,24 +62,7 @@ This module covers the different types of computer networks, their characteristi
 
 ---
 
-## 4. PAN (Personal Area Network)
-
-**Definition:** A Personal Area Network (PAN) connects personal devices over a short distance, usually around one individual.
-
-### Characteristics
-- Covers a very small area.
-- Connects personal electronic devices.
-- Commonly uses Bluetooth or USB.
-- Usually intended for personal use.
-
-### Examples
-- Smartphone connected to Bluetooth earbuds.
-- Smartwatch connected to a smartphone.
-- Laptop connected to a smartphone hotspot.
-
----
-
-## 5. MAN (Metropolitan Area Network)
+## 4. MAN (Metropolitan Area Network)
 
 **Definition:** A Metropolitan Area Network (MAN) connects multiple networks across a city or metropolitan area.
 
@@ -93,6 +76,23 @@ This module covers the different types of computer networks, their characteristi
 - A university connecting campuses across a city.
 - A city government connecting multiple offices.
 - An organization connecting branches within a metropolitan area.
+
+---
+
+## 5. WAN (Wide Area Network)
+
+**Definition:** A Wide Area Network (WAN) connects multiple networks over a large geographical area, such as cities, countries, or continents.
+
+### Characteristics
+- Covers the largest geographical area among these network types.
+- Connects multiple LANs and other networks.
+- Uses telecommunications infrastructure.
+- May rely on network service providers.
+
+### Examples
+- A company connecting offices in different countries.
+- A bank connecting branches nationwide.
+- The Internet.
 
 ---
 
