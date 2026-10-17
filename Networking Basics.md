@@ -52,6 +52,7 @@ Consider a small office environment containing **5 employee PC**, **1 network pr
 <img width="760" height="509" alt="Setup FTP" src="https://github.com/user-attachments/assets/f88d3794-78a1-4dd3-a046-a7db717e4662" />
 <img width="534" height="250" alt="Send FTP" src="https://github.com/user-attachments/assets/1df2a697-06e4-4ac4-80e3-c9daff27172d" />
 <img width="514" height="151" alt="Sending Files" src="https://github.com/user-attachments/assets/aa827dd4-65ad-4d5b-ab82-97a26640f22c" />
+>>>
 <img width="406" height="326" alt="Gettiing Files" src="https://github.com/user-attachments/assets/c978368b-70a4-4a0c-a3fe-772d8b29a699" />
 
 3. **Communication in Action:** PC0 sends an internal instant message to PC1 over the local network to confirm the report is ready.
