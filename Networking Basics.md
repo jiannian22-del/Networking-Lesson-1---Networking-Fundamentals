@@ -50,16 +50,19 @@ Consider a small office environment containing **5 employee PC**, **1 network pr
 1. **The Setup:** The 5 pc connect wirelessly to the Wi-Fi router. The router connects via Ethernet cable to both the printer and the storage server.
    1. Click the WRT300N router and open the GUI tab.
    2. Use DHCP to automatically assigns IP addresses to PCs when they join the network, so we do not need to configure every PC manually
+
 <img width="639" height="590" alt="WiFi Router Setup 1" src="https://github.com/user-attachments/assets/dfc0bd70-1a5b-4e5f-85e9-cca29e1b93aa" />
 <img width="556" height="239" alt="WiFi Router Setup 2" src="https://github.com/user-attachments/assets/fc4247a3-9abb-4039-b9c2-5b8dcd544d58" />
 <img width="582" height="343" alt="WiFi Router Setup 3" src="https://github.com/user-attachments/assets/b3c9381f-2950-4c0a-a94e-eaa78b689b67" />
-   3. Click a PC and open the Physical tab.
-   4. Turn the PC off using its power button.
-   5. Replace its Ethernet module with the WPC300N wireless module, if the module is available.
-   6. Turn the PC back on.
-   7. Open Desktop → PC Wireless or Config → Wireless, depending on our Packet Tracer version.
-   8. Connect to OfficeWiFi and enter the Wi-Fi passphrase.
-   9. Open Desktop → IP Configuration and select DHCP
+<br>
+   5. Click a PC and open the Physical tab. <br>
+   6. Turn the PC off using its power button. <br>
+   7. Replace its Ethernet module with the WPC300N wireless module, if the module is available. <br>
+   8. Turn the PC back on. <br>
+   9. Open Desktop → PC Wireless or Config → Wireless, depending on our Packet Tracer version. <br>
+   10. Connect to OfficeWiFi and enter the Wi-Fi passphrase. <br>
+   11. Open Desktop → IP Configuration and select DHCP. <br>
+<br>
 <img width="182" height="87" alt="PC Setup 1" src="https://github.com/user-attachments/assets/16c05804-0fe5-493f-9354-119e3d6b774f" />
 <img width="671" height="310" alt="PC Setup 2" src="https://github.com/user-attachments/assets/89f19634-0f80-4164-b07a-30ec6aff3f4f" />
 
