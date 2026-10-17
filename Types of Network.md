@@ -186,12 +186,3 @@ An **intranet** is a private network used by an organization to share informatio
 - The Internet is global, while an intranet provides private organizational access.
 
 ---
-
-## Module Information
-
-- **Module:** 2 — Types of Networks
-- **Day:** 2
-- **Topic:** Network Types and Internet vs. Intranet
-- **Status:** In Progress
-
----
