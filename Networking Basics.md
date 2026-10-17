@@ -1,4 +1,4 @@
-# Networking-Lesson-1---Networking basics
+# Module 1 — Networking basics
 #### What is a computer network?
 A computer network is an interconnected group of digital devices—ranging from desktop PCs, servers, and smartphones to networking hardware like routers and switches—linked together through wired media (such as Ethernet or fiber-optic cables) or wireless transmission (such as Wi-Fi or cellular networks). 
 
