@@ -1,7 +1,5 @@
 # Module 2 — Types of Networks
 
-## Day 2: Understanding Network Types
-
 This module covers the different types of computer networks, their characteristics, examples, and the differences between the Internet and an intranet.
 
 ## Learning Objectives
