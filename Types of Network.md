@@ -126,7 +126,7 @@ An **intranet** is a private network used by an organization to share informatio
 | Security | Depends on services and security controls | Typically protected by access controls |
 | Example | Public websites | Company employee portal |
 <br>
-<img width="1104" height="1260" alt="Module 2 — Types of Networks - Visual 2" src="https://github.com/user-attachments/assets/a2376fb5-7120-488b-8ffb-02bf667ee95a" />
+<img width="552" height="630" alt="Module 2 — Types of Networks - Visual 2" src="https://github.com/user-attachments/assets/a2376fb5-7120-488b-8ffb-02bf667ee95a" />
 <br>
 
 ---
@@ -141,7 +141,7 @@ An **intranet** is a private network used by an organization to share informatio
 | PAN | Personal Area Network | Around an individual | Bluetooth earbuds |
 | MAN | Metropolitan Area Network | City or metropolitan area | City-wide campus network |
 <br>
-<img width="1634" height="2050" alt="Module 2 — Types of Networks - Visual 1" src="https://github.com/user-attachments/assets/087f968a-39a3-43ca-a137-ee3dc393ac55" />
+<img width="817" height="1025" alt="Module 2 — Types of Networks - Visual 1" src="https://github.com/user-attachments/assets/087f968a-39a3-43ca-a137-ee3dc393ac55" />
 <br>
 
 ---
