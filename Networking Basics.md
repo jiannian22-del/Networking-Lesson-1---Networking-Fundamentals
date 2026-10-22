@@ -33,6 +33,11 @@ Networks allow expensive or high-capacity hardware and software assets to be poo
 * **Software Resources:** Hosting centralized applications, databases, and licenses on network servers rather than installing individual instances on every workstation.
 * **Internet Connection Sharing:** Routing hundreds of internal devices through a single gateway router and shared ISP connection.
 
+  <br>
+<img width="1405" height="816" alt="Module 1 — Networking basics - Visual 1" src="https://github.com/user-attachments/assets/aa3e7b88-df08-4983-9431-143d858ee99b" />
+
+  <br>
+
 ---
 
 #### Basic Example
