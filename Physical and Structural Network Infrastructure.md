@@ -49,6 +49,9 @@ When opening a web browser to visit a webpage:
 #### Real-World Example
 In a corporate office, employees store their work files on a shared corporate file server. The file server manages access permissions, ensuring only authorized team members can open and edit specific files.
 
+<br>
+<img width="557" height="523" alt="Module 03 — Network Architecture, Devices, and Transmission Media - Visual 1" src="https://github.com/user-attachments/assets/0007d8b9-f4f7-4829-8b49-ac3cfd47b34b" />
+<br>
 ---
 
 ### 1.2 Peer-to-Peer (P2P) Architecture
@@ -78,6 +81,9 @@ Two laptops on the same Wi-Fi network exchange documents directly by sharing a l
 #### Real-World Example
 A small team working in a temporary field office shares project documents between two laptops using built-in operating system shared folders, avoiding the need to deploy a server infrastructure.
 
+<br>
+<img width="840" height="724" alt="Module 03 — Network Architecture, Devices, and Transmission Media - Visual 2" src="https://github.com/user-attachments/assets/eac2b393-052a-4f23-a303-2b5cbcf35b3d" />
+<br>
 ---
 
 ### 1.3 Client-Server vs. Peer-to-Peer Comparison
@@ -154,6 +160,9 @@ An **ONT** is the endpoint device installed at a customer premises in a Fiber-to
 | **Repeater** | Regenerates weak physical signals | Signal distance extension |
 | **Bridge** | Filters & links two local physical network segments | Legacy Layer 2 LAN interconnectivity |
 
+<br>
+<img width="660" height="902" alt="Module 03 — Network Architecture, Devices, and Transmission Media - Visual 3" src="https://github.com/user-attachments/assets/6631172f-200a-43c9-a6e5-ef555bf15654" />
+<br>
 ---
 
 ## 3. Transmission Media
